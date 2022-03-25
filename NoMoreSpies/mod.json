@@ -1,0 +1,9 @@
+{
+  "name": "NoMoreSpies",
+  "displayName": "No More Spies Mod",
+  "mainModule": "NoMoreSpies.dll",
+  "mainClass": "NoMoreSpies.Mod",
+  "version": "1.0.0",
+  "generateManifest": "XxHash64",
+  "dependencies": []
+}
